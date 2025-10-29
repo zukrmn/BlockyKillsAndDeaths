@@ -1,0 +1,6 @@
+com/blockycraft/blockykillsanddeaths/util/MobUtil.class
+com/blockycraft/blockykillsanddeaths/BlockyKillsAndDeaths.class
+com/blockycraft/blockykillsanddeaths/database/DatabaseManagerKillsAndDeaths.class
+com/blockycraft/blockykillsanddeaths/listeners/PlayerKillListener.class
+com/blockycraft/blockykillsanddeaths/listeners/MobKillListener.class
+com/blockycraft/blockykillsanddeaths/listeners/PlayerDeathListener.class
