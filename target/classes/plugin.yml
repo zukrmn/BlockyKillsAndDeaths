@@ -1,7 +1,0 @@
-name: BlockyKillsAndDeaths
-main: com.blockycraft.blockykillsanddeaths.BlockyKillsAndDeaths
-version: 1.0
-description: Plugin de estatísticas de kills, deaths, mobs e mortes naturais para Scoreboard.
-author: Bernardo Zukerman
-commands: { }
-softdepend: []
